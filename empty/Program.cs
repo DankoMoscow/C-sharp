@@ -12,7 +12,7 @@
 
             int num1 = int.Parse(s1);
             int num2 = int.Parse(s2);
-            // s
+            // sewrgeb
             do
             {
                 Console.WriteLine("Какую операцию хотите сделать?");
